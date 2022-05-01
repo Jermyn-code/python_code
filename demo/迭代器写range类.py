@@ -2,7 +2,7 @@
 # @Author : Jermyn
 # @Time : 2022/4/30 0030 17:24
 # @Deception：
-# @Filename : 手写range类.py
+# @Filename : 迭代器写range类.py
 class Range(object):
     def __init__(self, end, start=None, step=1):
         if end is not None:

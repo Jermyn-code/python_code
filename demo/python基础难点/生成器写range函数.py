@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # @Author : Jermyn
 # @Time : 2022/5/1 0001 0:33
-# @Deception：主要就是灵活应用yield的使用
+# @Deception：主要就是灵活使用 yield 的使用
 # @Filename : 生成器写range函数.py
 def _range(end, start=None, step=1):
     if start is None:
